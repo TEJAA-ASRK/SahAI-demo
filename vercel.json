@@ -1,7 +1,7 @@
 {
   "buildCommand": "npm run build",
   "installCommand": "npm install",
-  "framework": "other",
+  "framework": "node",
   "public": false,
   "regions": ["iad1"]
 }
